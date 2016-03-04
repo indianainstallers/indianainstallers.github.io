@@ -1,0 +1,19 @@
+{
+  "name": "indianainstallers",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indianainstallers/indianainstallers.github.io.git"
+  },
+  "author": "Joey Dill <jmdill@elevatestudios.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indianainstallers/indianainstallers.github.io/issues"
+  },
+  "homepage": "https://github.com/indianainstallers/indianainstallers.github.io#readme"
+}
